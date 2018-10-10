@@ -1,28 +1,54 @@
-\section{Status of the EMC Effect}
+\section{Status of the EMC effect}
 
-Since the original discovery of the EMC Effect in 1983~\cite{Aubert:1983xm}, there has been a large
-program of measurements at several laboratories (CERN, Fermilab, SLAC, DESY, Jefferson Lab)
+One of the best tools available for studying the internal structure of nucleons is the deep inelastic
+scattering (DIS) process, where a charged lepton scatters inelastically with a large four-momentum
+transfer represented by the Lorentz invariant $Q^2 = -q^2 = q^\mu q_\mu \gg 1-2~\mathrm{GeV}^2$.
+The process is characterized by a scaling variable Bjorken-x, $x = Q^2/2M_N \nu$, 
+where $M_N$ is the mass of the target hadron and $\nu$ is the energy transfered from the lepton in the laboratory frame,
+which is associated with the momentum fraction carried by a struck spin-1/2 partons in the limit of the infinite momentum frame.
+To leading order the unpolarized electromagnetic DIS cross section in the laboratory frame can be written~\cite{FIXME}
+\begin{equation}
+    \frac{d^2 \sigma}{dx dy} = \frac{4 \pi \alpha^2}{x y Q^2} \left[ (1-y)F_2(x, Q^2) + y^2 x F_1 \right]
+\end{equation}
+where $y = \nu/E$ where $E$ is the incident lepton energy, $\alpha$ is the fine structure constant and $F_2$
+and $F_1$ are structure functions of the proton to be determined.  These structure functions can be reduced
+by the Callan-Gross relation $F_2 - 2xF_1 = F_\mathrm{L} \approx 0$ for non-interacting point-like spin-1/2
+particles with
+\begin{equation}
+    F_2(x,Q^2) = x \sum_{q} e_q^2 q(x,Q^2)
+\end{equation}
+where the sum $q$ is over all quark flavors,  $e_q$ is the electromagnetic chare of the quark, and the
+functions $q(x,Q^2)$ are the parton distribution functions (PDFs) which are believed to be universal
+and can describe other processes such as Drell-Yan.  Analagous distributions exist for the case of polarized
+targets.  A great success of QCD is the prediction of the logarithmic 
+evolution of the PDFs with $Q^2$, the so-called DGLAP evolution.  These PDFs can in principle be measured for any bound hadronic state.
+
+The EMC effect~\cite{Aubert:1983xm} is the observation that the PDFs for nuclei are different than
+the incoherent sum over the PDFs of the constituent nucleons and marks a clear sign of the modification
+of the structure of the nucleons when bound together in a nucleus.
+Since the original discovery in 1983, there has been a large
+program of measurements at several laboratories, such as CERN, Fermilab, SLAC, DESY, and Jefferson Lab (JLab),
 aimed at understanding the properties and probing the origin of the nuclear dependence of inelastic
 structure functions (see~\cite{Geesaman:1995yd, Malace:2014uea, Hen:2016kwk} for reviews related to the EMC effect).
-Measurements with high energy (of scale 100 GeV) muon beams have provided high precision at low to
+Measurements with high energy (of scale 100 GeV) muon beams have provided high-precision data at low to
 moderate $x$ ($<0.3$), while more modest energy electron facilities (of scale 10 GeV) have provided
-the highest precision at large $x$ ($>0.3$) (see Fig.~\ref{fig:emc_iron}).  The low-to-moderate $x$
+the highest precision at large $x$ ($>0.3$), Fig.~\ref{fig:emc_iron}.  The low-to-moderate $x$
 regions show interesting shadowing and anti-shadowing behaviors, while the suppression of the
-per-nucleon cross section for $0.3<x<0.7$ is the hallmark of the EMC Effect.
+per-nucleon cross section for $0.3<x<0.7$ is the hallmark of the EMC effect.
 
 The most comprehensive data set with high precision at large $x$ comes from SLAC E139. This experiment
-measured the EMC Effect for a wide range of nuclei, from $^4$He to Au with good precision up to
+measured the EMC effect for a wide range of nuclei, from $^4$He to Au with good precision up to
 $x\approx0.8$.  One of the outcomes of E139 was an investigation of the detailed nuclear dependence of the EMC
-Effect. It was found that the nuclear dependence of the EMC Effect at large x ($x=0.6$) is consistent
+Effect. It was found that the nuclear dependence of the EMC effect at large x ($x=0.6$) is consistent
 with both a logarithmic $A$ dependence as well as a linear dependence on average nuclear density.
 
 From the measurements made prior to the Jefferson Lab program, one can draw several conclusions about
 the global properties of the EMC effect:
 \begin{enumerate}
- \item{The shape of the EMC Effect (shadowing, anti-shadowing, and EMC regions at small, moderate, and
+ \item{The shape of the EMC effect (shadowing, anti-shadowing, and EMC regions at small, moderate, and
   large $x$ respectively) is universal and observed in all nuclei.}
- \item{The EMC Effect displays little $Q^2$ dependence over the full $x$ range.}
- \item{At large $x$, the EMC Effect grows with $A$, while there is little apparent $A$ dependence in the
+ \item{The EMC effect displays little $Q^2$ dependence over the full $x$ range.}
+ \item{At large $x$, the EMC effect grows with $A$, while there is little apparent $A$ dependence in the
    anti-shadowing region.}
 \end{enumerate}
 
@@ -33,54 +59,54 @@ quark bags, or modification of the internal structure of the nucleons such as ``
 
 \begin{figure}[htb]
   \includegraphics[width=0.5\textwidth]{plots/emc_cu_fe.pdf}
-  \caption{EMC Effect for iron (BCDMS collaboration~\cite{Benvenuti:1987az} and SLAC E139~\cite{Gomez:1993ri})
+  \caption{EMC effect for iron (BCDMS collaboration~\cite{Benvenuti:1987az} and SLAC E139~\cite{Gomez:1993ri})
     and copper (EMC collaboration~\cite{Ashman:1992kv}).
     Figure from Ref.~\cite{Guzey:2012yk}}
   \label{fig:emc_iron}
 \end{figure}
 
-\subsection{EMC Effect Results from Jefferson Lab and the EMC-SRC Connection}
+\subsection{EMC effect Results from Jefferson Lab and the EMC-SRC Connection}
 
 The primary goal of Jefferson Lab E03-103 was to augment the results obtained from SLAC E139 by taking
 advantage of improved target technologies to provide higher precision data for $^4$He and the first
-measurement of the EMC Effect from $^3$He at large $x$.  Additional light (Be and C) and heavy (Cu and Au)
+measurement of the EMC effect from $^3$He at large $x$.  Additional light (Be and C) and heavy (Cu and Au)
 targets were also used to provide improved precision at large $x$.
 
-Since the shape of the EMC Effect is universal, the E03-103 analysis defined the ``size'' of the EMC
+Since the shape of the EMC effect is universal, the E03-103 analysis defined the ``size'' of the EMC
 Effect as the slope of a line fit between $0.35<x<0.7$.  This definition reduces sensitivity to
 normalization uncertainties and results in higher sensitivity to the nuclear dependence.
 
-The slope of the EMC Effect for $^3$He, $^4$He, Be, and C from E03-103 plotted vs. scaled nuclear
+The slope of the EMC effect for $^3$He, $^4$He, Be, and C from E03-103 plotted against scaled nuclear
 density is shown in Fig.~\ref{fig:emc_jlab_hallc}.  The nuclear dependence was found to be consistent
 with a simple density dependence, with the exception of Be. However, if one considers the fact that a
 beryllium nucleus can be described as two $\alpha$ clusters with an extra neutron, it then makes sense
-that the EMC Effect for beryllium would be more similar to $^4$He if the size of the EMC Effect is
+that the EMC effect for beryllium would be more similar to $^4$He if the size of the EMC effect is
 governed by the local nuclear density experienced by the quarks in the bound nucleon, rather than the
 average density~\cite{Seely:2009gt}.
 
 \begin{figure}[htb]
   \includegraphics[width=0.5\textwidth]{plots/e03103_slopes.pdf}
-  \caption{Size of the EMC Effect (defined as $|dR/dx|$ between for $x=0.35-0.7$) vs. scaled nuclear
+  \caption{Size of the EMC effect (defined as $|dR/dx|$ between for $x=0.35-0.7$) vs. scaled nuclear
     density~\cite{Seely:2009gt}.}
   \label{fig:emc_jlab_hallc}
 \end{figure}
 
 Later, it was suggested that so-called short-range nucleon-nucleon correlations (SRCs) in nuclei also result
-in high local nuclear density, and when the size of the EMC Effect was plotted vs. the
+in high local nuclear density, and when the size of the EMC effect was plotted vs. the
 $a_2=\sigma_A/\sigma_D$ ratio of
 inclusive cross sections at $x>1$ (which is sensitive to the ``number of short range correlations''
 found in a nucleus) a linear correlation between the two quantities was observed~\cite{Weinstein:2010rt}.
-This connection was even more compelling when $x>1$ ratios for Be from JLab experiment E02-019 became
+This correspondance was even more compelling when $x>1$ ratios for Be from JLab experiment E02-019 became
 available and the same correlation was observed~\cite{Hen:2012fm}, Fig.~\ref{fig:emc_src_bff}.
 
 \begin{figure}[htb]
   \includegraphics[width=0.5\textwidth]{plots/plotfit_all_norescaling_nocm_rean_final.pdf}
-  \caption{Size of the EMC Effect plotted vs. the SRC $a_2$ ratio. Data are from JLab and SLAC. Figure
+  \caption{Size of the EMC effect plotted vs. the SRC $a_2$ ratio. Data are from JLab and SLAC. Figure
   from Ref.~\cite{Arrington:2012ax}.}
   \label{fig:emc_src_bff}
 \end{figure}
 
-The origin of this connection is unclear, whether SRCs in some way cause the EMC Effect, or if the two
+The origin of this correspondance is unclear, whether SRCs in some way cause the EMC effect, or if the two
 phenomena are caused by some common underlying source.  A study was conducted to examine whether
-both the EMC Effect and SRCs are correlated with some other independent variable~\cite{Arrington:2012ax} such
+both the EMC effect and SRCs are correlated with some other independent variable~\cite{Arrington:2012ax} such
 as average nucleon separation energy, etc., with no clear common origin or factor found.
