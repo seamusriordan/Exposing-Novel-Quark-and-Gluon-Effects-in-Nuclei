@@ -1,4 +1,4 @@
-\begin{thebibliography}{111}
+\begin{thebibliography}{126}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -143,6 +143,18 @@
   \bibinfo{pages}{065204} (\bibinfo{year}{2012}{\natexlab{a}}),
   \eprint{1206.6343}.
 
+\bibitem[{\citenamefont{Aad et~al.}(2015)}]{ATLAS:2014cpa}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Aad}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{ATLAS}), \bibinfo{journal}{Phys. Lett.}
+  \textbf{\bibinfo{volume}{B748}}, \bibinfo{pages}{392} (\bibinfo{year}{2015}),
+  \eprint{1412.4092}.
+
+\bibitem[{\citenamefont{Chatrchyan et~al.}(2014)}]{Chatrchyan:2014hqa}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Chatrchyan}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{CMS}), \bibinfo{journal}{Eur.
+  Phys. J.} \textbf{\bibinfo{volume}{C74}}, \bibinfo{pages}{2951}
+  (\bibinfo{year}{2014}), \eprint{1401.4433}.
+
 \bibitem[{\citenamefont{Eskola et~al.}(2017)\citenamefont{Eskola, Paakkinen,
   Paukkunen, and Salgado}}]{Eskola:2016oht}
 \bibinfo{author}{\bibfnamefont{K.~J.} \bibnamefont{Eskola}},
@@ -190,7 +202,8 @@
   \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Arrington}},
   \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Fomin}}, \bibnamefont{and}
   \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Gaskell}}
-  (\bibinfo{year}{2010}),
+  (\bibinfo{year}{2010}), \bibinfo{note}{{J}efferson Lab Experiment
+  E12-10-008},
   \urlprefix\url{http://www.jlab.org/exp_prog/proposals/10/PR12-10-008.pdf}.
 
 \bibitem[{\citenamefont{Day et~al.}(2006)\citenamefont{Day, Arrington, Fomin,
@@ -199,7 +212,8 @@
   \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Arrington}},
   \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Fomin}}, \bibnamefont{and}
   \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Solvginon}}
-  (\bibinfo{year}{2006}),
+  (\bibinfo{year}{2006}), \bibinfo{note}{{J}efferson Lab Experiment
+  E12-06-105},
   \urlprefix\url{http://www.jlab.org/exp_prog/proposals/06/PR12-06-105.pdf}.
 
 \bibitem[{\citenamefont{Cloet et~al.}(2009)\citenamefont{Cloet, Bentz, and
@@ -277,7 +291,8 @@
 \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Riordan}},
   \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Beminiwattha}},
   \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Arrington}}
-  (\bibinfo{year}{2016}),
+  (\bibinfo{year}{2016}), \bibinfo{note}{{J}efferson Lab PAC 44 Proposal
+  PR12-16-006},
   \urlprefix\url{https://www.jlab.org/exp_prog/proposals/16/PR12-16-006.pdf}.
 
 \bibitem[{\citenamefont{Bodek et~al.}(1983)}]{Bodek:1983ec}
@@ -367,9 +382,10 @@
   \eprint{1806.00481}.
 
 \bibitem[{\citenamefont{Brooks and Kuhn}(2014)}]{jlabspin}
-\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Brooks}} \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Kuhn}}
-  (\bibinfo{year}{2014}),
+\bibinfo{author}{\bibfnamefont{W.~K.} \bibnamefont{Brooks}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~E.} \bibnamefont{Kuhn}}
+  (\bibinfo{year}{2014}), \bibinfo{note}{{J}efferson Lab Experiment
+  E12-14-001},
   \urlprefix\url{https://www.jlab.org/exp_prog/proposals/14/PR12-14-001.pdf}.
 
 \bibitem[{\citenamefont{Alde et~al.}(1990)}]{Alde:1990im}
@@ -382,6 +398,14 @@
   \bibnamefont{et~al.} (\bibinfo{collaboration}{NuSea}),
   \bibinfo{journal}{Phys. Rev. Lett.} \textbf{\bibinfo{volume}{83}},
   \bibinfo{pages}{2304} (\bibinfo{year}{1999}), \eprint{hep-ex/9906010}.
+
+\bibitem[{\citenamefont{Geesaman et~al.}(2006)\citenamefont{Geesaman, Reimer
+  et~al.}}]{seaquest}
+\bibinfo{author}{\bibfnamefont{D.~F.} \bibnamefont{Geesaman}},
+  \bibinfo{author}{\bibfnamefont{P.~E.} \bibnamefont{Reimer}},
+  \bibnamefont{et~al.} (\bibinfo{year}{2006}), \bibinfo{note}{{F}ermi National
+  Accelerator Laboratory experiment E906},
+  \urlprefix\url{http://www.phy.anl.gov/mep/SeaQuest/}.
 
 \bibitem[{\citenamefont{Badier et~al.}(1981)}]{Badier:1981ci}
 \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Badier}} \bibnamefont{et~al.}
@@ -456,6 +480,11 @@
   \bibinfo{author}{\bibfnamefont{W.~N.} \bibnamefont{Polyzou}},
   \bibinfo{journal}{Adv. Nucl. Phys.} \textbf{\bibinfo{volume}{20}},
   \bibinfo{pages}{225} (\bibinfo{year}{1991}), \bibinfo{note}{[,225(1991)]}.
+
+\bibitem[{\citenamefont{Weiss et~al.}(2014)}]{deutLDRD}
+\bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Weiss}} \bibnamefont{et~al.}
+  (\bibinfo{year}{2014}), \bibinfo{note}{physics potential of polarized light
+  ions with EIC$@$JLab}, \urlprefix\url{https://www.jlab.org/theory/tag/}.
 
 \bibitem[{\citenamefont{Sargsian and Strikman}(2006)}]{Sargsian:2005rm}
 \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Sargsian}} \bibnamefont{and}
@@ -589,27 +618,29 @@
 \bibitem[{\citenamefont{Arrington et~al.}(2010)\citenamefont{Arrington,
   Katramatou, Petratos, and Ransome}}]{mar}
 \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Arrington}},
-  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Katramatou}},
-  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Petratos}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Ransome}}
-  (\bibinfo{year}{2010}),
+  \bibinfo{author}{\bibfnamefont{A.~T.} \bibnamefont{Katramatou}},
+  \bibinfo{author}{\bibfnamefont{G.~G.} \bibnamefont{Petratos}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{R.~D.}
+  \bibnamefont{Ransome}} (\bibinfo{year}{2010}), \bibinfo{note}{{J}efferson Lab
+  Experiment E12-10-103},
   \urlprefix\url{https://www.jlab.org/exp_prog/proposals/10/PR12-10-103.pdf}.
 
 \bibitem[{\citenamefont{Gao et~al.}(2009)\citenamefont{Gao, Chen, Jiang, Peng,
   and Qian}}]{sid1}
 \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Gao}},
-  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{J.~P.} \bibnamefont{Chen}},
   \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Jiang}},
-  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Peng}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~C.} \bibnamefont{Peng}}, \bibnamefont{and}
   \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Qian}}
-  (\bibinfo{year}{2009}),
+  (\bibinfo{year}{2009}), \bibinfo{note}{{J}efferson Lab Proposal PR12-09-014},
   \urlprefix\url{https://www.jlab.org/exp_prog/proposals/09/PR12-09-014.pdf}.
 
 \bibitem[{\citenamefont{Chen et~al.}(2011)\citenamefont{Chen, Qiang, and
   Yan}}]{sid2}
-\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Chen}},
+\bibinfo{author}{\bibfnamefont{J.~P.} \bibnamefont{Chen}},
   \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Qiang}}, \bibnamefont{and}
   \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Yan}} (\bibinfo{year}{2011}),
+  \bibinfo{note}{{J}efferson Lab Proposal PR12-11-007},
   \urlprefix\url{https://www.jlab.org/exp_prog/proposals/11/PR12-11-007.pdf}.
 
 \bibitem[{\citenamefont{Bakamjian and Thomas}(1953)}]{Bakamjian:1953kh}
@@ -737,10 +768,17 @@
   \bibinfo{journal}{Eur. Phys. J.} \textbf{\bibinfo{volume}{A47}},
   \bibinfo{pages}{112} (\bibinfo{year}{2011}), \eprint{1106.4897}.
 
-\bibitem[{\citenamefont{Accardi et~al.}(2016)}]{Accardi:2012qut}
+\bibitem[{\citenamefont{Cano and Pire}(2004)}]{Cano:2003ju}
+\bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Cano}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Pire}},
+  \bibinfo{journal}{Eur. Phys. J.} \textbf{\bibinfo{volume}{A19}},
+  \bibinfo{pages}{423} (\bibinfo{year}{2004}), \eprint{hep-ph/0307231}.
+
+\bibitem[{\citenamefont{Accardi et~al.}(2016{\natexlab{a}})}]{Accardi:2012qut}
 \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Accardi}} \bibnamefont{et~al.},
   \bibinfo{journal}{Eur. Phys. J.} \textbf{\bibinfo{volume}{A52}},
-  \bibinfo{pages}{268} (\bibinfo{year}{2016}), \eprint{1212.1701}.
+  \bibinfo{pages}{268} (\bibinfo{year}{2016}{\natexlab{a}}),
+  \eprint{1212.1701}.
 
 \bibitem[{\citenamefont{Egiyan et~al.}(2003)}]{Egiyan:2003vg}
 \bibinfo{author}{\bibfnamefont{K.~S.} \bibnamefont{Egiyan}}
@@ -851,14 +889,92 @@
   \textbf{\bibinfo{volume}{C76}}, \bibinfo{pages}{055206}
   (\bibinfo{year}{2007}), \eprint{0706.2937}.
 
+\bibitem[{\citenamefont{Solvignon et~al.}(2009)\citenamefont{Solvignon,
+  Gaskell, and Arrington}}]{Solvignon:2009it}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Solvignon}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Gaskell}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Arrington}},
+  \bibinfo{journal}{AIP Conf. Proc.} \textbf{\bibinfo{volume}{1160}},
+  \bibinfo{pages}{155} (\bibinfo{year}{2009}), \eprint{0906.0512}.
+
 \bibitem[{\citenamefont{Malace et~al.}(2014{\natexlab{b}})\citenamefont{Malace,
   Christy, Gaskell, Keppel, and Solvignon}}]{12gev_nucr}
 \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Malace}},
-  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Christy}},
+  \bibinfo{author}{\bibfnamefont{M.~E.} \bibnamefont{Christy}},
   \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Gaskell}},
-  \bibinfo{author}{\bibfnamefont{C.}~\bibnamefont{Keppel}}, \bibnamefont{and}
-  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Solvignon}}
-  (\bibinfo{year}{2014}{\natexlab{b}}),
+  \bibinfo{author}{\bibfnamefont{C.~E.} \bibnamefont{Keppel}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Solvignon}}
+  (\bibinfo{year}{2014}{\natexlab{b}}), \bibinfo{note}{{J}efferson Lab
+  Experiment E12-14-002},
   \urlprefix\url{http://www.jlab.org/exp_prog/proposals/14/PR12-14-002.pdf}.
+
+\bibitem[{\citenamefont{Bueltmann et~al.}(2006)\citenamefont{Bueltmann,
+  Christy, Howard, Griffioen, Keppel, Kuhn, Melnitchouk, and
+  Tvaskis}}]{bonus12}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Bueltmann}},
+  \bibinfo{author}{\bibfnamefont{M.~E.} \bibnamefont{Christy}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{Howard}},
+  \bibinfo{author}{\bibfnamefont{K.~A.} \bibnamefont{Griffioen}},
+  \bibinfo{author}{\bibfnamefont{C.~E.} \bibnamefont{Keppel}},
+  \bibinfo{author}{\bibfnamefont{S.~E.} \bibnamefont{Kuhn}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Melnitchouk}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{Tvaskis}}
+  (\bibinfo{year}{2006}), \bibinfo{note}{{J}efferson Lab Proposal PR12-06-113},
+  \urlprefix\url{https://www.jlab.org/exp_prog/proposals/06/PR12-06-113.pdf}.
+
+\bibitem[{\citenamefont{Souder et~al.}(2010)}]{solid_pvdis}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Souder}} \bibnamefont{et~al.}
+  (\bibinfo{year}{2010}), \bibinfo{note}{{J}efferson Lab Proposal PR12-10-007},
+  \urlprefix\url{https://www.jlab.org/exp_prog/proposals/10/PR12-10-007.pdf}.
+
+\bibitem[{\citenamefont{Abazov et~al.}(2015)}]{D0:2014kma}
+\bibinfo{author}{\bibfnamefont{V.~M.} \bibnamefont{Abazov}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{D0}), \bibinfo{journal}{Phys.
+  Rev.} \textbf{\bibinfo{volume}{D91}}, \bibinfo{pages}{032007}
+  (\bibinfo{year}{2015}), \bibinfo{note}{[Erratum: Phys.
+  Rev.D91,no.7,079901(2015)]}, \eprint{1412.2862}.
+
+\bibitem[{\citenamefont{Abazov et~al.}(2014)}]{Abazov:2013dsa}
+\bibinfo{author}{\bibfnamefont{V.~M.} \bibnamefont{Abazov}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{D0}), \bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{112}}, \bibinfo{pages}{151803}
+  (\bibinfo{year}{2014}), \bibinfo{note}{[Erratum: Phys. Rev.
+  Lett.114,no.4,049901(2015)]}, \eprint{1312.2895}.
+
+\bibitem[{\citenamefont{Acosta et~al.}(2005)}]{Acosta:2005ud}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Acosta}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{CDF}), \bibinfo{journal}{Phys. Rev.}
+  \textbf{\bibinfo{volume}{D71}}, \bibinfo{pages}{051104}
+  (\bibinfo{year}{2005}), \eprint{hep-ex/0501023}.
+
+\bibitem[{\citenamefont{Aaltonen et~al.}(2009)}]{Aaltonen:2009ta}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Aaltonen}} \bibnamefont{et~al.}
+  (\bibinfo{collaboration}{CDF}), \bibinfo{journal}{Phys. Rev. Lett.}
+  \textbf{\bibinfo{volume}{102}}, \bibinfo{pages}{181801}
+  (\bibinfo{year}{2009}), \eprint{0901.2169}.
+
+\bibitem[{\citenamefont{Aaltonen et~al.}(2010)}]{Aaltonen:2010zza}
+\bibinfo{author}{\bibfnamefont{T.~A.} \bibnamefont{Aaltonen}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{CDF}), \bibinfo{journal}{Phys.
+  Lett.} \textbf{\bibinfo{volume}{B692}}, \bibinfo{pages}{232}
+  (\bibinfo{year}{2010}), \eprint{0908.3914}.
+
+\bibitem[{\citenamefont{Abazov et~al.}(2007)}]{Abazov:2007jy}
+\bibinfo{author}{\bibfnamefont{V.~M.} \bibnamefont{Abazov}}
+  \bibnamefont{et~al.} (\bibinfo{collaboration}{D0}), \bibinfo{journal}{Phys.
+  Rev.} \textbf{\bibinfo{volume}{D76}}, \bibinfo{pages}{012003}
+  (\bibinfo{year}{2007}), \eprint{hep-ex/0702025}.
+
+\bibitem[{\citenamefont{Accardi
+  et~al.}(2016{\natexlab{b}})\citenamefont{Accardi, Brady, Melnitchouk, Owens,
+  and Sato}}]{Accardi:2016qay}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Accardi}},
+  \bibinfo{author}{\bibfnamefont{L.~T.} \bibnamefont{Brady}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Melnitchouk}},
+  \bibinfo{author}{\bibfnamefont{J.~F.} \bibnamefont{Owens}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Sato}},
+  \bibinfo{journal}{Phys. Rev.} \textbf{\bibinfo{volume}{D93}},
+  \bibinfo{pages}{114017} (\bibinfo{year}{2016}{\natexlab{b}}),
+  \eprint{1602.03154}.
 
 \end{thebibliography}
