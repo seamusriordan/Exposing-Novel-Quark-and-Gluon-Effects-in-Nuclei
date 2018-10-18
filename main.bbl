@@ -313,11 +313,9 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
   {Daniel}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Arrington}},
   \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Fomin}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {D.}~\bibnamefont {Gaskell}},\ }\href
-  {http://www.jlab.org/exp_prog/proposals/10/PR12-10-008.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab experiment e12-10-008},}\ } (\bibinfo
-  {year} {2010}),\ \bibinfo {note} {{J}efferson Lab Experiment
-  E12-10-008}\BibitemShut {NoStop}%
+  {author} {\bibfnamefont {D.}~\bibnamefont {Gaskell}},\ }\href@noop {}
+  {\enquote {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-008},}\
+  } (\bibinfo {year} {2010})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Day}\ \emph {et~al.}(2006)\citenamefont {Day},
   \citenamefont {Arrington}, \citenamefont {Fomin},\ and\ \citenamefont
   {Solvginon}}]{12gev_xgt1}%
@@ -325,11 +323,9 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
   {Day}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Arrington}},
   \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Fomin}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {P.}~\bibnamefont {Solvginon}},\ }\href
-  {http://www.jlab.org/exp_prog/proposals/06/PR12-06-105.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab experiment e12-06-105},}\ } (\bibinfo
-  {year} {2006}),\ \bibinfo {note} {{J}efferson Lab Experiment
-  E12-06-105}\BibitemShut {NoStop}%
+  {author} {\bibfnamefont {P.}~\bibnamefont {Solvginon}},\ }\href@noop {}
+  {\enquote {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-06-105},}\
+  } (\bibinfo {year} {2006})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Cloet}\ \emph {et~al.}(2009)\citenamefont {Cloet},
   \citenamefont {Bentz},\ and\ \citenamefont {Thomas}}]{Cloet:2009qs}%
   \BibitemOpen
@@ -444,9 +440,9 @@
   {Beminiwattha}}, \ and\ \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
   {Arrington}},\ }\href
   {https://www.jlab.org/exp_prog/proposals/16/PR12-16-006.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab pac 44 proposal pr12-16-006},}\ }
-  (\bibinfo {year} {2016}),\ \bibinfo {note} {{J}efferson Lab PAC 44 Proposal
-  PR12-16-006}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab pac 44 {P}roposal {PR}12-16-006},}\ }
+  (\bibinfo {year} {2016}),\ \bibinfo {note} {{J}efferson {L}ab PAC 44
+  {P}roposal {PR}12-16-006}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Bodek}\ \emph {et~al.}(1983)\citenamefont {Bodek}
   \emph {et~al.}}]{Bodek:1983ec}%
   \BibitemOpen
@@ -586,9 +582,9 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.~K.}\ \bibnamefont
   {Brooks}}\ and\ \bibinfo {author} {\bibfnamefont {S.~E.}\ \bibnamefont
   {Kuhn}},\ }\href {https://www.jlab.org/exp_prog/proposals/14/PR12-14-001.pdf}
-  {\enquote {\bibinfo {title} {{J}efferson lab experiment e12-14-001},}\ }
-  (\bibinfo {year} {2014}),\ \bibinfo {note} {{J}efferson Lab Experiment
-  E12-14-001}\BibitemShut {NoStop}%
+  {\enquote {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-14-001},}\
+  } (\bibinfo {year} {2014}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
+  {E}12-14-001}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Alde}\ \emph {et~al.}(1990)\citenamefont {Alde} \emph
   {et~al.}}]{Alde:1990im}%
   \BibitemOpen
@@ -615,9 +611,10 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~F.}\ \bibnamefont
   {Geesaman}}, \bibinfo {author} {\bibfnamefont {P.~E.}\ \bibnamefont
   {Reimer}},  \emph {et~al.},\ }\href {http://www.phy.anl.gov/mep/SeaQuest/}
-  {\enquote {\bibinfo {title} {{F}ermi national accelerator laboratory
-  expeirment e906},}\ } (\bibinfo {year} {2006}),\ \bibinfo {note} {{F}ermi
-  National Accelerator Laboratory experiment E906}\BibitemShut {NoStop}%
+  {\enquote {\bibinfo {title} {{F}ermi {N}ational {A}ccelerator {L}aboratory
+  {E}xperiment {E}906},}\ } (\bibinfo {year} {2006}),\ \bibinfo {note} {{F}ermi
+  {N}ational {A}ccelerator {L}aboratory {E}xperiment {E}906}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Badier}\ \emph {et~al.}(1981)\citenamefont {Badier}
   \emph {et~al.}}]{Badier:1981ci}%
   \BibitemOpen
@@ -745,7 +742,7 @@
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
   {Weiss}} \emph {et~al.},\ }\href {https://www.jlab.org/theory/tag/} {}
-  (\bibinfo {year} {2014}),\ \bibinfo {note} {physics potential of polarized
+  (\bibinfo {year} {2014}),\ \bibinfo {note} {{P}hysics potential of polarized
   light ions with EIC$@$JLab}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sargsian}\ and\ \citenamefont
   {Strikman}(2006)}]{Sargsian:2005rm}%
@@ -970,9 +967,9 @@
   {Petratos}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~D.}\ \bibnamefont
   {Ransome}},\ }\href
   {https://www.jlab.org/exp_prog/proposals/10/PR12-10-103.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab experiment e12-10-103},}\ } (\bibinfo
-  {year} {2010}),\ \bibinfo {note} {{J}efferson Lab Experiment
-  E12-10-103}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-103},}\ }
+  (\bibinfo {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
+  {E}12-10-103}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Gao}\ \emph {et~al.}(2009)\citenamefont {Gao},
   \citenamefont {Chen}, \citenamefont {Jiang}, \citenamefont {Peng},\ and\
   \citenamefont {Qian}}]{sid1}%
@@ -983,9 +980,9 @@
   {author} {\bibfnamefont {J.~C.}\ \bibnamefont {Peng}}, \ and\ \bibinfo
   {author} {\bibfnamefont {X.}~\bibnamefont {Qian}},\ }\href
   {https://www.jlab.org/exp_prog/proposals/09/PR12-09-014.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab proposal pr12-09-014},}\ } (\bibinfo
-  {year} {2009}),\ \bibinfo {note} {{J}efferson Lab Proposal
-  PR12-09-014}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {P}roposal {PR}12-09-014},}\ } (\bibinfo
+  {year} {2009}),\ \bibinfo {note} {{J}efferson {L}ab {P}roposal
+  {PR}12-09-014}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Chen}\ \emph {et~al.}(2011)\citenamefont {Chen},
   \citenamefont {Qiang},\ and\ \citenamefont {Yan}}]{sid2}%
   \BibitemOpen
@@ -993,9 +990,9 @@
   {Chen}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Qiang}}, \ and\
   \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Yan}},\ }\href
   {https://www.jlab.org/exp_prog/proposals/11/PR12-11-007.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab proposal pr12-11-007},}\ } (\bibinfo
-  {year} {2011}),\ \bibinfo {note} {{J}efferson Lab Proposal
-  PR12-11-007}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {P}roposal {PR}12-11-007},}\ } (\bibinfo
+  {year} {2011}),\ \bibinfo {note} {{J}efferson {L}ab {P}roposal
+  {PR}12-11-007}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Bakamjian}\ and\ \citenamefont
   {Thomas}(1953)}]{Bakamjian:1953kh}%
   \BibitemOpen
@@ -1411,11 +1408,9 @@
   {Malace}}, \bibinfo {author} {\bibfnamefont {M.~E.}\ \bibnamefont {Christy}},
   \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Gaskell}}, \bibinfo
   {author} {\bibfnamefont {C.~E.}\ \bibnamefont {Keppel}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {P.}~\bibnamefont {Solvignon}},\ }\href
-  {http://www.jlab.org/exp_prog/proposals/14/PR12-14-002.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab experiment e12-14-002},}\ } (\bibinfo
-  {year} {2014}{\natexlab{b}}),\ \bibinfo {note} {{J}efferson Lab Experiment
-  E12-14-002}\BibitemShut {NoStop}%
+  {author} {\bibfnamefont {P.}~\bibnamefont {Solvignon}},\ }\href@noop {}
+  {\enquote {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-14-002},}\
+  } (\bibinfo {year} {2014}{\natexlab{b}})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Johnson}\ \emph {et~al.}(2007)\citenamefont
   {Johnson}, \citenamefont {Kopeliovich}, \citenamefont {Leitch}, \citenamefont
   {McGaughey}, \citenamefont {Moss}, \citenamefont {Potashnikova},\ and\
@@ -1493,9 +1488,9 @@
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
   {Hafidi}} \emph {et~al.},\ }\href
   {http://www.jlab.org/exp_prog/proposals/06/PR12-06-117.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab proposal pr12-06-117},}\ } (\bibinfo
-  {year} {2006}),\ \bibinfo {note} {{J}efferson Lab Proposal
-  PR12-06-117}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {P}roposal {PR}12-06-117},}\ } (\bibinfo
+  {year} {2006}),\ \bibinfo {note} {{J}efferson {L}ab {P}roposal
+  {PR}12-06-117}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Bueltmann}\ \emph {et~al.}(2006)\citenamefont
   {Bueltmann}, \citenamefont {Christy}, \citenamefont {Howard}, \citenamefont
   {Griffioen}, \citenamefont {Keppel}, \citenamefont {Kuhn}, \citenamefont
@@ -1510,18 +1505,18 @@
   {\bibfnamefont {W.}~\bibnamefont {Melnitchouk}}, \ and\ \bibinfo {author}
   {\bibfnamefont {V.}~\bibnamefont {Tvaskis}},\ }\href
   {https://www.jlab.org/exp_prog/proposals/06/PR12-06-113.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab proposal pr12-06-113},}\ } (\bibinfo
-  {year} {2006}),\ \bibinfo {note} {{J}efferson Lab Proposal
-  PR12-06-113}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {P}roposal {PR}12-06-113},}\ } (\bibinfo
+  {year} {2006}),\ \bibinfo {note} {{J}efferson {L}ab {P}roposal
+  {PR}12-06-113}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Souder}\ \emph {et~al.}(2010)\citenamefont {Souder}
   \emph {et~al.}}]{solid_pvdis}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
   {Souder}} \emph {et~al.},\ }\href
   {https://www.jlab.org/exp_prog/proposals/10/PR12-10-007.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson lab proposal pr12-10-007},}\ } (\bibinfo
-  {year} {2010}),\ \bibinfo {note} {{J}efferson Lab Proposal
-  PR12-10-007}\BibitemShut {NoStop}%
+  {\bibinfo {title} {{J}efferson {L}ab {P}roposal {PR}12-10-007},}\ } (\bibinfo
+  {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {P}roposal
+  {PR}12-10-007}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Abazov}\ \emph {et~al.}(2015)\citenamefont {Abazov}
   \emph {et~al.}}]{D0:2014kma}%
   \BibitemOpen
