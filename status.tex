@@ -8,7 +8,7 @@ where $M_N$ is the mass of the target hadron and $\nu$ is the energy transferred
 which is associated with the momentum fraction carried by a struck spin-1/2 partons in the limit of the infinite-momentum frame.
 To leading order the unpolarized electromagnetic DIS cross section in the laboratory frame can be written~\cite{PhysRevD.98.030001}
 \begin{equation}
-    \frac{d^2 \sigma}{dx dy} = \frac{4 \pi \alpha^2}{x y Q^2} \left[ (1-y)F_2(x, Q^2) + y^2 x F_1(x, Q^2) \right]
+    \frac{d^2 \sigma}{dx dy} = \frac{4 \pi \alpha^2}{x y Q^2} \left[ (1-y)F_2(x, Q^2) + y^2 x F_1 \right]
 \end{equation}
 where $y = \nu/E$ where $E$ is the incident lepton energy, $\alpha$ is the fine structure constant and $F_2$
 and $F_1$ are structure functions of the proton to be determined.  These structure functions can be reduced
@@ -39,7 +39,7 @@ per-nucleon cross section for $0.3<x<0.7$ is the hallmark of the EMC effect.
 The most comprehensive data sets with high precision at large $x$ come from SLAC E139 and Jlab E03-103. The SLAC experiment
 measured the EMC effect for a wide range of nuclei, from $^4$He to Au with good precision up to
 $x\approx0.8$.  One of the outcomes of E139 was an investigation of the detailed nuclear dependence of the EMC
-Effect. It was found that the nuclear dependence of the EMC effect at large $x$ ($x=0.6$) is consistent
+Effect. It was found that the nuclear dependence of the EMC effect at large x ($x=0.6$) is consistent
 with both a logarithmic $A$ dependence as well as a linear dependence on average nuclear density.
 
 The SLAC and early high energy measurements showed a number of global properties of the EMC effect:
@@ -94,7 +94,7 @@ A comparison to the $a_2=\sigma_A/\sigma_D$ ratio of
 inclusive cross sections at $x>1$ (which is sensitive to the ``number of short range correlations''
 found in a nucleus) a linear correlation between the two quantities was observed~\cite{Weinstein:2010rt}.
 This correspondence was even more compelling when $x>1$ ratios for Be from JLab experiment E02-019 became
-available and the same correlation persisted~\cite{Hen:2012fm}, Fig.~\ref{fig:emc_src_bff}.
+available and the same correlation persisted~\cite{Arrington:2012ax, Hen:2012fm}, Fig.~\ref{fig:emc_src_bff}.
 
 \begin{figure}[htb]
   \includegraphics[width=0.5\textwidth]{plots/plotfit_all_norescaling_nocm_rean_final.pdf}
@@ -109,3 +109,12 @@ both the EMC effect and SRCs are correlated with some other independent variable
 as average nucleon separation energy, etc., with no clear common origin or factor found.
 
 A subtlety exists in correlation studies between $x>1$ inclusive cross section ratios and the EMC effect.  The former represent the relative number of high-momentum nucleons found in an $A$ nucleus, relative to $A=2$, and not the relative number of nucleon-nucleon pairs.  This means that a causal relationsip between high-virtuality nucleons and the EMC effect can potentially represent a different scenario than one where the high-density configurations (SRC pairs) are the culprit.  Additionally, observed $NP$ dominance in SRC experiments~\cite{Subedi:2008zz} implies that for the virtuality hypotehsis, the EMC effect may differ for protons and neutrons for non-isoscalar nuclei.  Upcoming experiments at Jefferson Lab will look for signatures of such a dependence. 
+\section{Quarks at $x>$1}
+Quasielastic kinematics at $x>$1 probe moving nucleons, but if we increase the Q$^2$, the inelastic contribution begins to dominate, allowing us to access quark distributions. Existing JLab data have a limited range in $x$ and require the application of the of so-called "target-mass corrections" (TMCs) to extract the Q$^2\rightarrow\infty$ structure function limit.  This analysis was done for the E02-019 data, showing that the data are approaching the scaling regime~\cite{Fomin:2010ei}.  Upcoming measurements at higher energies~\cite{12gev_xgt1} can shed light on the quark structure of SRCs, where potential 6-quark configurations would result in a noticeable enhancement of the measured cross sections at $x>1$, and can be related back to the EMC region, where the enhancement is harder to determine.  Fig.~\ref{fig:quarkbags} from Ref.~\cite{Arrington:2003qt} shows the potential effect on the quark distributions in the EMC as well as the $x>1$ region.
+\begin{figure}[htb]
+  \includegraphics[width=0.225\textwidth]{plots/qofx2_lin_5per.eps}
+  \includegraphics[width=0.225\textwidth]{plots/qofx2_log_5per.eps}
+  \caption{Quark distribution calculations for the deuteron, where the dashed line shows 2N components, the dotted line corresponds to a 5\% contribution from 6-quark bags, and the solid line shows the sum of the two~\cite{Mulders:1983au}. }
+  \label{fig:quarkbags}
+\end{figure}
+
