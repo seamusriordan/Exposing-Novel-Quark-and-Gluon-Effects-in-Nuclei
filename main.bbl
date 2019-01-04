@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{132}%
+\begin{thebibliography}{134}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -58,6 +58,50 @@
   Group}),\ }\href {\doibase 10.1103/PhysRevD.98.030001} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Rev. D}\ }\textbf {\bibinfo {volume} {98}},\
   \bibinfo {pages} {030001} (\bibinfo {year} {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Benvenuti}\ \emph {et~al.}(1987)\citenamefont
+  {Benvenuti} \emph {et~al.}}]{Benvenuti:1987az}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~C.}\ \bibnamefont
+  {Benvenuti}} \emph {et~al.} (\bibinfo {collaboration} {BCDMS}),\ }\href
+  {\doibase 10.1016/0370-2693(87)90664-2} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Lett.}\ }\textbf {\bibinfo {volume} {B189}},\ \bibinfo
+  {pages} {483} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
+%%CITATION = PHLTA,B189,483;%%
+\bibitem [{\citenamefont {Gomez}\ \emph {et~al.}(1994)\citenamefont {Gomez}
+  \emph {et~al.}}]{Gomez:1993ri}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Gomez}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevD.49.4348}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\ }\textbf {\bibinfo
+  {volume} {D49}},\ \bibinfo {pages} {4348} (\bibinfo {year}
+  {1994})}\BibitemShut {NoStop}%
+%%CITATION = PHRVA,D49,4348;%%
+\bibitem [{\citenamefont {Ashman}\ \emph {et~al.}(1993)\citenamefont {Ashman}
+  \emph {et~al.}}]{Ashman:1992kv}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Ashman}} \emph {et~al.} (\bibinfo {collaboration} {European Muon}),\ }\href
+  {\doibase 10.1007/BF01565050} {\bibfield  {journal} {\bibinfo  {journal} {Z.
+  Phys.}\ }\textbf {\bibinfo {volume} {C57}},\ \bibinfo {pages} {211} (\bibinfo
+  {year} {1993})}\BibitemShut {NoStop}%
+%%CITATION = ZEPYA,C57,211;%%
+\bibitem [{\citenamefont {Guzey}\ \emph {et~al.}(2012)\citenamefont {Guzey},
+  \citenamefont {Zhu}, \citenamefont {Keppel}, \citenamefont {Christy},
+  \citenamefont {Gaskell}, \citenamefont {Solvignon},\ and\ \citenamefont
+  {Accardi}}]{Guzey:2012yk}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Guzey}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Zhu}}, \bibinfo
+  {author} {\bibfnamefont {C.~E.}\ \bibnamefont {Keppel}}, \bibinfo {author}
+  {\bibfnamefont {M.~E.}\ \bibnamefont {Christy}}, \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Gaskell}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Solvignon}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Accardi}},\ }\href {\doibase 10.1103/PhysRevC.86.045201}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\ }\textbf {\bibinfo
+  {volume} {C86}},\ \bibinfo {pages} {045201} (\bibinfo {year} {2012})},\
+  \Eprint {http://arxiv.org/abs/1207.0131} {arXiv:1207.0131 [hep-ph]}
+  \BibitemShut {NoStop}%
+%%CITATION = ARXIV:1207.0131;%%
 \bibitem [{\citenamefont {Aubert}\ \emph {et~al.}(1983)\citenamefont {Aubert}
   \emph {et~al.}}]{Aubert:1983xm}%
   \BibitemOpen
@@ -141,50 +185,6 @@
   {http://arxiv.org/abs/1304.2813} {arXiv:1304.2813 [nucl-th]} \BibitemShut
   {NoStop}%
 %%CITATION = ARXIV:1304.2813;%%
-\bibitem [{\citenamefont {Benvenuti}\ \emph {et~al.}(1987)\citenamefont
-  {Benvenuti} \emph {et~al.}}]{Benvenuti:1987az}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~C.}\ \bibnamefont
-  {Benvenuti}} \emph {et~al.} (\bibinfo {collaboration} {BCDMS}),\ }\href
-  {\doibase 10.1016/0370-2693(87)90664-2} {\bibfield  {journal} {\bibinfo
-  {journal} {Phys. Lett.}\ }\textbf {\bibinfo {volume} {B189}},\ \bibinfo
-  {pages} {483} (\bibinfo {year} {1987})}\BibitemShut {NoStop}%
-%%CITATION = PHLTA,B189,483;%%
-\bibitem [{\citenamefont {Gomez}\ \emph {et~al.}(1994)\citenamefont {Gomez}
-  \emph {et~al.}}]{Gomez:1993ri}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Gomez}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevD.49.4348}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\ }\textbf {\bibinfo
-  {volume} {D49}},\ \bibinfo {pages} {4348} (\bibinfo {year}
-  {1994})}\BibitemShut {NoStop}%
-%%CITATION = PHRVA,D49,4348;%%
-\bibitem [{\citenamefont {Ashman}\ \emph {et~al.}(1993)\citenamefont {Ashman}
-  \emph {et~al.}}]{Ashman:1992kv}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Ashman}} \emph {et~al.} (\bibinfo {collaboration} {European Muon}),\ }\href
-  {\doibase 10.1007/BF01565050} {\bibfield  {journal} {\bibinfo  {journal} {Z.
-  Phys.}\ }\textbf {\bibinfo {volume} {C57}},\ \bibinfo {pages} {211} (\bibinfo
-  {year} {1993})}\BibitemShut {NoStop}%
-%%CITATION = ZEPYA,C57,211;%%
-\bibitem [{\citenamefont {Guzey}\ \emph {et~al.}(2012)\citenamefont {Guzey},
-  \citenamefont {Zhu}, \citenamefont {Keppel}, \citenamefont {Christy},
-  \citenamefont {Gaskell}, \citenamefont {Solvignon},\ and\ \citenamefont
-  {Accardi}}]{Guzey:2012yk}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
-  {Guzey}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Zhu}}, \bibinfo
-  {author} {\bibfnamefont {C.~E.}\ \bibnamefont {Keppel}}, \bibinfo {author}
-  {\bibfnamefont {M.~E.}\ \bibnamefont {Christy}}, \bibinfo {author}
-  {\bibfnamefont {D.}~\bibnamefont {Gaskell}}, \bibinfo {author} {\bibfnamefont
-  {P.}~\bibnamefont {Solvignon}}, \ and\ \bibinfo {author} {\bibfnamefont
-  {A.}~\bibnamefont {Accardi}},\ }\href {\doibase 10.1103/PhysRevC.86.045201}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev.}\ }\textbf {\bibinfo
-  {volume} {C86}},\ \bibinfo {pages} {045201} (\bibinfo {year} {2012})},\
-  \Eprint {http://arxiv.org/abs/1207.0131} {arXiv:1207.0131 [hep-ph]}
-  \BibitemShut {NoStop}%
-%%CITATION = ARXIV:1207.0131;%%
 \bibitem [{\citenamefont {Seely}\ \emph {et~al.}(2009)\citenamefont {Seely}
   \emph {et~al.}}]{Seely:2009gt}%
   \BibitemOpen
@@ -195,6 +195,14 @@
   {2009})},\ \Eprint {http://arxiv.org/abs/0904.4448} {arXiv:0904.4448
   [nucl-ex]} \BibitemShut {NoStop}%
 %%CITATION = ARXIV:0904.4448;%%
+\bibitem [{\citenamefont {Kulagin}\ and\ \citenamefont
+  {Petti}(2010)}]{PhysRevC.82.054614}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~A.}\ \bibnamefont
+  {Kulagin}}\ and\ \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Petti}},\ }\href {\doibase 10.1103/PhysRevC.82.054614} {\bibfield  {journal}
+  {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume} {82}},\
+  \bibinfo {pages} {054614} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Weinstein}\ \emph
   {et~al.}(2011{\natexlab{a}})\citenamefont {Weinstein}, \citenamefont
   {Piasetzky}, \citenamefont {Higinbotham}, \citenamefont {Gomez},
@@ -1037,17 +1045,6 @@
   {\bibinfo  {journal} {Phys. Rev.}\ }\textbf {\bibinfo {volume} {92}},\
   \bibinfo {pages} {1300} (\bibinfo {year} {1953})}\BibitemShut {NoStop}%
 %%CITATION = PHRVA,92,1300;%%
-\bibitem [{\citenamefont {Benhar}\ \emph {et~al.}(2008)\citenamefont {Benhar},
-  \citenamefont {day},\ and\ \citenamefont {Sick}}]{Benhar:2006wy}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
-  {Benhar}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {day}}, \ and\
-  \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Sick}},\ }\href {\doibase
-  10.1103/RevModPhys.80.189} {\bibfield  {journal} {\bibinfo  {journal} {Rev.
-  Mod. Phys.}\ }\textbf {\bibinfo {volume} {80}},\ \bibinfo {pages} {189}
-  (\bibinfo {year} {2008})},\ \Eprint {http://arxiv.org/abs/nucl-ex/0603029}
-  {arXiv:nucl-ex/0603029 [nucl-ex]} \BibitemShut {NoStop}%
-%%CITATION = NUCL-EX/0603029;%%
 \bibitem [{\citenamefont {Strauch}\ \emph {et~al.}(2003)\citenamefont {Strauch}
   \emph {et~al.}}]{Strauch:2002wu}%
   \BibitemOpen
@@ -1059,6 +1056,30 @@
   \Eprint {http://arxiv.org/abs/nucl-ex/0211022} {arXiv:nucl-ex/0211022
   [nucl-ex]} \BibitemShut {NoStop}%
 %%CITATION = NUCL-EX/0211022;%%
+\bibitem [{\citenamefont {Benhar}\ \emph {et~al.}(2008)\citenamefont {Benhar},
+  \citenamefont {day},\ and\ \citenamefont {Sick}}]{Benhar:2006wy}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Benhar}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {day}}, \ and\
+  \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Sick}},\ }\href {\doibase
+  10.1103/RevModPhys.80.189} {\bibfield  {journal} {\bibinfo  {journal} {Rev.
+  Mod. Phys.}\ }\textbf {\bibinfo {volume} {80}},\ \bibinfo {pages} {189}
+  (\bibinfo {year} {2008})},\ \Eprint {http://arxiv.org/abs/nucl-ex/0603029}
+  {arXiv:nucl-ex/0603029 [nucl-ex]} \BibitemShut {NoStop}%
+%%CITATION = NUCL-EX/0603029;%%
+\bibitem [{\citenamefont {Ciofi~degli Atti}\ \emph {et~al.}(1999)\citenamefont
+  {Ciofi~degli Atti}, \citenamefont {Kaptari},\ and\ \citenamefont
+  {Scopetta}}]{CiofidegliAtti:1999kp}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Ciofi~degli Atti}}, \bibinfo {author} {\bibfnamefont {L.~P.}\ \bibnamefont
+  {Kaptari}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Scopetta}},\ }\href {\doibase 10.1007/s100500050275} {\bibfield  {journal}
+  {\bibinfo  {journal} {Eur. Phys. J.}\ }\textbf {\bibinfo {volume} {A5}},\
+  \bibinfo {pages} {191} (\bibinfo {year} {1999})},\ \Eprint
+  {http://arxiv.org/abs/hep-ph/9904486} {arXiv:hep-ph/9904486 [hep-ph]}
+  \BibitemShut {NoStop}%
+%%CITATION = HEP-PH/9904486;%%
 \bibitem [{\citenamefont {Ciofi~degli Atti}\ \emph {et~al.}(2004)\citenamefont
   {Ciofi~degli Atti}, \citenamefont {Kaptari},\ and\ \citenamefont
   {Kopeliovich}}]{CiofidegliAtti:2003pb}%
