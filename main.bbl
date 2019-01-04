@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{134}%
+\begin{thebibliography}{135}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -151,6 +151,16 @@
   {http://arxiv.org/abs/1611.09748} {arXiv:1611.09748 [nucl-ex]} \BibitemShut
   {NoStop}%
 %%CITATION = ARXIV:1611.09748;%%
+\bibitem [{\citenamefont {Seely}\ \emph {et~al.}(2009)\citenamefont {Seely}
+  \emph {et~al.}}]{Seely:2009gt}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Seely}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.103.202301}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
+  {\bibinfo {volume} {103}},\ \bibinfo {pages} {202301} (\bibinfo {year}
+  {2009})},\ \Eprint {http://arxiv.org/abs/0904.4448} {arXiv:0904.4448
+  [nucl-ex]} \BibitemShut {NoStop}%
+%%CITATION = ARXIV:0904.4448;%%
 \bibitem [{\citenamefont {Norton}(2003)}]{Norton:2003cb}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~R.}\ \bibnamefont
@@ -185,16 +195,6 @@
   {http://arxiv.org/abs/1304.2813} {arXiv:1304.2813 [nucl-th]} \BibitemShut
   {NoStop}%
 %%CITATION = ARXIV:1304.2813;%%
-\bibitem [{\citenamefont {Seely}\ \emph {et~al.}(2009)\citenamefont {Seely}
-  \emph {et~al.}}]{Seely:2009gt}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Seely}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.103.202301}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
-  {\bibinfo {volume} {103}},\ \bibinfo {pages} {202301} (\bibinfo {year}
-  {2009})},\ \Eprint {http://arxiv.org/abs/0904.4448} {arXiv:0904.4448
-  [nucl-ex]} \BibitemShut {NoStop}%
-%%CITATION = ARXIV:0904.4448;%%
 \bibitem [{\citenamefont {Kulagin}\ and\ \citenamefont
   {Petti}(2010)}]{PhysRevC.82.054614}%
   \BibitemOpen
@@ -203,10 +203,10 @@
   {Petti}},\ }\href {\doibase 10.1103/PhysRevC.82.054614} {\bibfield  {journal}
   {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume} {82}},\
   \bibinfo {pages} {054614} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Weinstein}\ \emph
-  {et~al.}(2011{\natexlab{a}})\citenamefont {Weinstein}, \citenamefont
-  {Piasetzky}, \citenamefont {Higinbotham}, \citenamefont {Gomez},
-  \citenamefont {Hen},\ and\ \citenamefont {Shneor}}]{Weinstein:2010rt}%
+\bibitem [{\citenamefont {Weinstein}\ \emph {et~al.}(2011)\citenamefont
+  {Weinstein}, \citenamefont {Piasetzky}, \citenamefont {Higinbotham},
+  \citenamefont {Gomez}, \citenamefont {Hen},\ and\ \citenamefont
+  {Shneor}}]{Weinstein:2010rt}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.~B.}\ \bibnamefont
   {Weinstein}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
@@ -216,9 +216,8 @@
   {author} {\bibfnamefont {R.}~\bibnamefont {Shneor}},\ }\href {\doibase
   10.1103/PhysRevLett.106.052301} {\bibfield  {journal} {\bibinfo  {journal}
   {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {106}},\ \bibinfo {pages}
-  {052301} (\bibinfo {year} {2011}{\natexlab{a}})},\ \Eprint
-  {http://arxiv.org/abs/1009.5666} {arXiv:1009.5666 [hep-ph]} \BibitemShut
-  {NoStop}%
+  {052301} (\bibinfo {year} {2011})},\ \Eprint {http://arxiv.org/abs/1009.5666}
+  {arXiv:1009.5666 [hep-ph]} \BibitemShut {NoStop}%
 %%CITATION = ARXIV:1009.5666;%%
 \bibitem [{\citenamefont {Arrington}\ \emph
   {et~al.}(2012{\natexlab{a}})\citenamefont {Arrington}, \citenamefont
@@ -379,6 +378,29 @@
   {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-008},}\ }
   (\bibinfo {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
   {E}12-10-008}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Arrington}\ \emph {et~al.}(2010)\citenamefont
+  {Arrington}, \citenamefont {Katramatou}, \citenamefont {Petratos},\ and\
+  \citenamefont {Ransome}}]{mar}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Arrington}}, \bibinfo {author} {\bibfnamefont {A.~T.}\ \bibnamefont
+  {Katramatou}}, \bibinfo {author} {\bibfnamefont {G.~G.}\ \bibnamefont
+  {Petratos}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~D.}\ \bibnamefont
+  {Ransome}},\ }\href
+  {https://www.jlab.org/exp_prog/proposals/10/PR12-10-103.pdf} {\enquote
+  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-103},}\ }
+  (\bibinfo {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
+  {E}12-10-103}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {O.~Hen}\ and\ \citenamefont
+  {Boeglin}(2014)}]{tritsrc}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~G.}\ \bibnamefont
+  {O.~Hen}, \bibfnamefont {L.B.~Weinstein}}\ and\ \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Boeglin}},\ }\href
+  {https://www.jlab.org/exp_prog//proposals/14/PR12-14-011.pdf} {\enquote
+  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-14-011},}\ }
+  (\bibinfo {year} {2014}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
+  {E}12-14-011}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Cloet}\ \emph {et~al.}(2009)\citenamefont {Cloet},
   \citenamefont {Bentz},\ and\ \citenamefont {Thomas}}]{Cloet:2009qs}%
   \BibitemOpen
@@ -400,20 +422,17 @@
   {http://arxiv.org/abs/1210.3280} {arXiv:1210.3280 [nucl-th]} \BibitemShut
   {NoStop}%
 %%CITATION = ARXIV:1210.3280;%%
-\bibitem [{\citenamefont {Weinstein}\ \emph
-  {et~al.}(2011{\natexlab{b}})\citenamefont {Weinstein}, \citenamefont
-  {Piasetzky}, \citenamefont {Higinbotham}, \citenamefont {Gomez},
-  \citenamefont {Hen},\ and\ \citenamefont {Shneor}}]{PhysRevLett.106.052301}%
+\bibitem [{\citenamefont {Arrington}(2016)}]{Arrington:2015wja}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.~B.}\ \bibnamefont
-  {Weinstein}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
-  {Piasetzky}}, \bibinfo {author} {\bibfnamefont {D.~W.}\ \bibnamefont
-  {Higinbotham}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Gomez}},
-  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Hen}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {R.}~\bibnamefont {Shneor}},\ }\href {\doibase
-  10.1103/PhysRevLett.106.052301} {\bibfield  {journal} {\bibinfo  {journal}
-  {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {106}},\ \bibinfo {pages}
-  {052301} (\bibinfo {year} {2011}{\natexlab{b}})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Arrington}},\ }\bibfield  {booktitle} {\emph {\bibinfo {booktitle}
+  {{Proceedings, 21st International Conference on Few-Body Problems in Physics
+  (FB21): Chicago, IL, USA, May 18-22, 2015}}},\ }\href {\doibase
+  10.1051/epjconf/201611301011} {\bibfield  {journal} {\bibinfo  {journal} {EPJ
+  Web Conf.}\ }\textbf {\bibinfo {volume} {113}},\ \bibinfo {pages} {01011}
+  (\bibinfo {year} {2016})},\ \Eprint {http://arxiv.org/abs/1508.05042}
+  {arXiv:1508.05042 [nucl-ex]} \BibitemShut {NoStop}%
+%%CITATION = ARXIV:1508.05042;%%
 \bibitem [{\citenamefont {Zeller}\ \emph {et~al.}(2002)\citenamefont {Zeller}
   \emph {et~al.}}]{Zeller:2001hh}%
   \BibitemOpen
@@ -1000,19 +1019,6 @@
   {\bibinfo {volume} {21}},\ \bibinfo {pages} {392} (\bibinfo {year}
   {1949})}\BibitemShut {NoStop}%
 %%CITATION = RMPHA,21,392;%%
-\bibitem [{\citenamefont {Arrington}\ \emph {et~al.}(2010)\citenamefont
-  {Arrington}, \citenamefont {Katramatou}, \citenamefont {Petratos},\ and\
-  \citenamefont {Ransome}}]{mar}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Arrington}}, \bibinfo {author} {\bibfnamefont {A.~T.}\ \bibnamefont
-  {Katramatou}}, \bibinfo {author} {\bibfnamefont {G.~G.}\ \bibnamefont
-  {Petratos}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~D.}\ \bibnamefont
-  {Ransome}},\ }\href
-  {https://www.jlab.org/exp_prog/proposals/10/PR12-10-103.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-103},}\ }
-  (\bibinfo {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
-  {E}12-10-103}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Gao}\ \emph {et~al.}(2009)\citenamefont {Gao},
   \citenamefont {Chen}, \citenamefont {Jiang}, \citenamefont {Peng},\ and\
   \citenamefont {Qian}}]{sid1}%
