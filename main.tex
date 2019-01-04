@@ -1,11 +1,18 @@
-%\documentclass[prb,11pt]{revtex4-1}
-\documentclass[twocolumn, linenumbers, nofootinbib]{revtex4-1}
+\documentclass[prc,linenumbers,letterpaper,twocolumn,nofootinbib,floatfix]{revtex4-1}
+  
+\usepackage[utf8]{inputenc}
+\usepackage{newtxtext,newtxmath}
 
 \usepackage{amsfonts, amsmath, amssymb, mathrsfs}
 \usepackage{verbatim}
 \usepackage{url}
 \usepackage[pdftex]{graphicx}           % Standard graphics package
 \usepackage{epstopdf}
+
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage{microtype}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue]{hyperref}
 
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
 \def\be{\begin{eqnarray} &&} 
@@ -15,19 +22,24 @@
 \date{\today}
 %\maketitle
 
+
+\setlength{\skip\footins}{0.5cm}
+\setlength{\textfloatsep}{10pt plus 1pt minus 2pt}
+
+\graphicspath{{.}{plots/}}
+
 \begin{document}
 
 \title{Exposing Novel Quark and Gluon Effects in Nuclei}
 
-\author{I.~Clo\"et}
+\author{I.~C.~Clo\"et}
 \affiliation{Physics Division, Argonne National Laboratory, Argonne, IL 60439, USA}
 
 \author{R.~Dupr\'{e}}
 \affiliation{Institut de Physique Nucl\'eaire, CNRS-IN2P3, Univ. Paris-Sud, Universit\'e Paris-Saclay, 91406 Orsay Cedex, France}
 
 \author{S.~Riordan}
-\thanks{Corresponding author}
-\email{sriordan@anl.gov}
+\email{sriordan@anl.gov (Corresponding author)}
 \affiliation{Physics Division, Argonne National Laboratory, Argonne, IL 60439, USA}
 
 \author{W.~Cosyn}
@@ -68,7 +80,7 @@
 
 
 
-\author{A.~Thomas}
+\author{A.~W.~Thomas}
 \affiliation{University of Adelaide, SA 5005, Australia}
 
 \author{P.~Zurita}
@@ -81,23 +93,23 @@
 \end{abstract}
 
 \maketitle
-\input{introduction}
-\input{status}
-\input{npdfs_contrib_v1}
-\input{npdfs_extra}
-\input{inclusive_newdir}
-\input{ivemc_contrib}
-\input{spindep_contrib}
-\input{Adep-Trento}
-\input{theory_intro}
-\input{deuteron_trento}
-\input{Pace_Em_trimmed}
-\input{tagged}
+\input{texfiles/introduction}
+\input{texfiles/status}
+\input{texfiles/npdfs_contrib_v1}
+\input{texfiles/npdfs_extra}
+\input{texfiles/inclusive_newdir}
+\input{texfiles/ivemc_contrib}
+\input{texfiles/spindep_contrib}
+\input{texfiles/Adep-Trento}
+\input{texfiles/theory_intro}
+\input{texfiles/deuteron_trento}
+\input{texfiles/Pace_Em_trimmed}
+\input{texfiles/tagged}
 %\input{lattice}
-\input{gpd_contrib}
-\input{src_contrib}
-\input{systematics}
-\input{summary}
+\input{texfiles/gpd_contrib}
+\input{texfiles/src_contrib}
+\input{texfiles/systematics}
+\input{texfiles/summary}
 
 \bibliography{fullbib}
 
