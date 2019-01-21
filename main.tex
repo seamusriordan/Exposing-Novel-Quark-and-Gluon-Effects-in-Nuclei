@@ -1,13 +1,17 @@
-\documentclass[prc,linenumbers,letterpaper,twocolumn,nofootinbib,floatfix]{revtex4-1}
+\documentclass[prc,linenumbers,letterpaper,twocolumn,nofootinbib,superscriptaddress,floatfix]{revtex4-1}
   
 \usepackage[utf8]{inputenc}
 \usepackage{newtxtext,newtxmath}
 
-\usepackage{amsfonts, amsmath, amssymb, mathrsfs}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{mathrsfs}
+\usepackage{bm}
+
 \usepackage{verbatim}
 \usepackage{url}
-\usepackage[pdftex]{graphicx}           % Standard graphics package
-\usepackage{epstopdf}
+\usepackage{graphicx}
+%\usepackage{epstopdf}
+\usepackage{setspace}
 
 \usepackage[english]{babel}
 \usepackage{blindtext}
@@ -19,15 +23,17 @@
 \def\nonu{\nonumber \\ &&} 
 \def\ee{\end{eqnarray}} 
 \def\nonu{\nonumber \\ &&} 
-\date{\today}
-%\maketitle
 
-
-\setlength{\skip\footins}{0.5cm}
+\setlength{\skip\footins}{4mm}
 \setlength{\textfloatsep}{10pt plus 1pt minus 2pt}
 
 \graphicspath{{.}{plots/}}
 
+\date{\today}
+
+
+%===============================================================================
+%===============================================================================
 \begin{document}
 
 \title{Exposing Novel Quark and Gluon Effects in Nuclei}
@@ -42,14 +48,14 @@
 \email{sriordan@anl.gov (Corresponding author)}
 \affiliation{Physics Division, Argonne National Laboratory, Argonne, IL 60439, USA}
 
-\author{W.~Cosyn}
-\affiliation{Ghent University, Gent, Belgium}
-
-%\author{W.~Armstrong}
-%\affiliation{Argonne National Laboratory, Lemont, IL 60439, USA}
+\author{W.~Armstrong}
+\affiliation{Physics Division, Argonne National Laboratory, Argonne, IL 60439, USA}
 
 \author{J.~Arrington}
 \affiliation{Physics Division, Argonne National Laboratory, Argonne, IL 60439, USA}
+
+\author{W.~Cosyn}
+\affiliation{Ghent University, Gent, Belgium}
 
 \author{N.~Fomin}
 \affiliation{Univesity of Tennessee, Knoxville, TN 37996, USA}
@@ -60,7 +66,10 @@
 \author{S.~Fucini}
 \affiliation{Perugia University and INFN, Perugia Section, via A. Pascoli snc I-06123 Perugia, Italy}
 
-\author{D.~Gaskell, C.~E.~Keppel}
+\author{D.~Gaskell}
+\affiliation{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
+
+\author{C.~E.~Keppel}
 \affiliation{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
 
 \author{G.~A.~Miller}
@@ -78,38 +87,61 @@
 \author{S.~Scopetta}
 \affiliation{Perugia University and INFN, Perugia Section, via A. Pascoli snc I-06123 Perugia, Italy}
 
-
-
 \author{A.~W.~Thomas}
 \affiliation{University of Adelaide, SA 5005, Australia}
 
 \author{P.~Zurita}
 \affiliation{Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA}
 
-\keywords{EMC effect; medium modification; nuclear modification; tagged scattering; deep inelastic scattering; nuclear generalized parton distributions; gluon distributions; parton distributions; short}
+%\keywords{EMC effect; medium modification; nuclear modification; tagged scattering; deep inelastic scattering; nuclear generalized parton distributions; gluon distributions; parton distributions; short-range correlations}
 
 \begin{abstract}
-    The modification of protons and neutrons in the nuclear medium presents a major challenge for modern nuclear physics.  After several decades of the first observation of modification through the EMC effect, there remain a number of important open questions to be addressed, including the flavor, spin, and momentum dependence of modification.  In this paper, we briefly review the state of the field, explore a range of new opportunities to better understand modification, and present a set of key questions and programs to address them.
+%The modification of protons and neutrons in the nuclear medium presents a major challenge for modern nuclear physics. After several decades of the first observation of modification through the EMC effect, there remain a number of important open questions to be addressed, including the flavor, spin, and momentum dependence of modification. In this paper, we briefly review the state of the field, explore a range of new opportunities to better understand modification, and present a set of key questions and programs to address them.
+%
+The fundamental theory of the strong interaction -- quantum chromodynamics (QCD) -- provides the foundational framework with which to describe and understand the key properties of atomic nuclei. A deep understanding of the explicit role of quarks and gluons in nuclei remains elusive however, as these effects have thus far been well disguised by confinement effects in QCD which are encapsulated by a successful description in terms of effective hadronic degrees of freedom. The observation of the EMC effect has provided an enduring indication for explicit QCD effects in nuclei, and points to the medium modification of the bound protons and neutrons in the nuclear medium. Understanding the EMC effect is a major challenge for modern nuclear physics, and several key questions remain, for example, understanding its flavor, spin, and momentum dependence. This manuscript provides a contemporary snapshot of our understanding of the role of QCD in nuclei, and outlines possible pathways in experiment and theory that will help deepen our understanding of nuclei in the context of QCD.
 \end{abstract}
 
 \maketitle
+\begin{spacing}{0.9}
+\tableofcontents
+\end{spacing}
+
 \input{texfiles/introduction}
+
 \input{texfiles/status}
+
 \input{texfiles/npdfs_contrib_v1}
-\input{texfiles/npdfs_extra}
+%\input{texfiles/npdfs_extra}
+
+% future directions inclusive
 \input{texfiles/inclusive_newdir}
+
+% isovector EMC effect
 \input{texfiles/ivemc_contrib}
+
+% polarized EMC effect
 \input{texfiles/spindep_contrib}
+
+% Drell-Yan
 \input{texfiles/Adep-Trento}
-\input{texfiles/theory_intro}
+
+%\input{texfiles/theory_intro}
 \input{texfiles/deuteron_trento}
+
 %\input{texfiles/Pace_Em_trimmed}
 \input{texfiles/Pace_Em_v2}
+
 \input{texfiles/tagged}
 %\input{lattice}
+
 \input{texfiles/gpd_contrib}
+
+
 \input{texfiles/src_contrib}
+
+
 \input{texfiles/systematics}
+
 \input{texfiles/summary}
 
 \bibliography{fullbib}
