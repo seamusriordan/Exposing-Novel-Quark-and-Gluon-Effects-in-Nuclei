@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{138}%
+\begin{thebibliography}{135}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -366,6 +366,26 @@
   10.1103/PhysRevD.96.114005} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
   Rev. D}\ }\textbf {\bibinfo {volume} {96}},\ \bibinfo {pages} {114005}
   (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Egiyan}\ \emph {et~al.}(2003)\citenamefont {Egiyan}
+  \emph {et~al.}}]{Egiyan:2003vg}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~S.}\ \bibnamefont
+  {Egiyan}} \emph {et~al.} (\bibinfo {collaboration} {CLAS}),\ }\href {\doibase
+  10.1103/PhysRevC.68.014313} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
+  Rev.}\ }\textbf {\bibinfo {volume} {C68}},\ \bibinfo {pages} {014313}
+  (\bibinfo {year} {2003})},\ \Eprint {http://arxiv.org/abs/nucl-ex/0301008}
+  {arXiv:nucl-ex/0301008 [nucl-ex]} \BibitemShut {NoStop}%
+%%CITATION = NUCL-EX/0301008;%%
+\bibitem [{\citenamefont {Fomin}\ \emph {et~al.}(2012)\citenamefont {Fomin}
+  \emph {et~al.}}]{Fomin:2011ng}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Fomin}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.108.092502}
+  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
+  {\bibinfo {volume} {108}},\ \bibinfo {pages} {092502} (\bibinfo {year}
+  {2012})},\ \Eprint {http://arxiv.org/abs/1107.3583} {arXiv:1107.3583
+  [nucl-ex]} \BibitemShut {NoStop}%
+%%CITATION = ARXIV:1107.3583;%%
 \bibitem [{\citenamefont {Daniel}\ \emph {et~al.}(2010)\citenamefont {Daniel},
   \citenamefont {Arrington}, \citenamefont {Fomin},\ and\ \citenamefont
   {Gaskell}}]{12gev_emc}%
@@ -1410,57 +1430,6 @@
   {2016}{\natexlab{a}})},\ \Eprint {http://arxiv.org/abs/1212.1701}
   {arXiv:1212.1701 [nucl-ex]} \BibitemShut {NoStop}%
 %%CITATION = ARXIV:1212.1701;%%
-\bibitem [{\citenamefont {Egiyan}\ \emph {et~al.}(2003)\citenamefont {Egiyan}
-  \emph {et~al.}}]{Egiyan:2003vg}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.~S.}\ \bibnamefont
-  {Egiyan}} \emph {et~al.} (\bibinfo {collaboration} {CLAS}),\ }\href {\doibase
-  10.1103/PhysRevC.68.014313} {\bibfield  {journal} {\bibinfo  {journal} {Phys.
-  Rev.}\ }\textbf {\bibinfo {volume} {C68}},\ \bibinfo {pages} {014313}
-  (\bibinfo {year} {2003})},\ \Eprint {http://arxiv.org/abs/nucl-ex/0301008}
-  {arXiv:nucl-ex/0301008 [nucl-ex]} \BibitemShut {NoStop}%
-%%CITATION = NUCL-EX/0301008;%%
-\bibitem [{\citenamefont {Fomin}\ \emph {et~al.}(2012)\citenamefont {Fomin}
-  \emph {et~al.}}]{Fomin:2011ng}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
-  {Fomin}} \emph {et~al.},\ }\href {\doibase 10.1103/PhysRevLett.108.092502}
-  {\bibfield  {journal} {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf
-  {\bibinfo {volume} {108}},\ \bibinfo {pages} {092502} (\bibinfo {year}
-  {2012})},\ \Eprint {http://arxiv.org/abs/1107.3583} {arXiv:1107.3583
-  [nucl-ex]} \BibitemShut {NoStop}%
-%%CITATION = ARXIV:1107.3583;%%
-\bibitem [{\citenamefont {Egiyan}\ \emph {et~al.}(2006)\citenamefont {Egiyan}
-  \emph {et~al.}}]{PhysRevLett.96.082501}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
-  {Egiyan}} \emph {et~al.} (\bibinfo {collaboration} {CLAS Collaboration}),\
-  }\href {\doibase 10.1103/PhysRevLett.96.082501} {\bibfield  {journal}
-  {\bibinfo  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {96}},\
-  \bibinfo {pages} {082501} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ye}\ \emph {et~al.}(2018)\citenamefont {Ye} \emph
-  {et~al.}}]{PhysRevC.97.065204}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Ye}}
-  \emph {et~al.} (\bibinfo {collaboration} {The Jefferson Lab Hall A
-  Collaboration}),\ }\href {\doibase 10.1103/PhysRevC.97.065204} {\bibfield
-  {journal} {\bibinfo  {journal} {Phys. Rev. C}\ }\textbf {\bibinfo {volume}
-  {97}},\ \bibinfo {pages} {065204} (\bibinfo {year} {2018})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Fomin}\ \emph {et~al.}(2017)\citenamefont {Fomin},
-  \citenamefont {Higinbotham}, \citenamefont {Sargsian},\ and\ \citenamefont
-  {Solvignon}}]{Fomin:2017ydn}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
-  {Fomin}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Higinbotham}},
-  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Sargsian}}, \ and\
-  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Solvignon}},\ }\href
-  {\doibase 10.1146/annurev-nucl-102115-044939} {\bibfield  {journal} {\bibinfo
-   {journal} {Ann. Rev. Nucl. Part. Sci.}\ }\textbf {\bibinfo {volume} {67}},\
-  \bibinfo {pages} {129} (\bibinfo {year} {2017})},\ \Eprint
-  {http://arxiv.org/abs/1708.08581} {arXiv:1708.08581 [nucl-th]} \BibitemShut
-  {NoStop}%
-%%CITATION = ARXIV:1708.08581;%%
 \bibitem [{\citenamefont {Solvignon}\ \emph {et~al.}(2009)\citenamefont
   {Solvignon}, \citenamefont {Gaskell},\ and\ \citenamefont
   {Arrington}}]{Solvignon:2009it}%
