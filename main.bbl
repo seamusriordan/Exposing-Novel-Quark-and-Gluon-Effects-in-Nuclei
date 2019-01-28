@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{135}%
+\begin{thebibliography}{136}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -246,6 +246,17 @@
   {047301} (\bibinfo {year} {2012})},\ \Eprint {http://arxiv.org/abs/1202.3452}
   {arXiv:1202.3452 [nucl-ex]} \BibitemShut {NoStop}%
 %%CITATION = ARXIV:1202.3452;%%
+\bibitem [{\citenamefont {Chen}\ \emph {et~al.}(2017)\citenamefont {Chen},
+  \citenamefont {Detmold}, \citenamefont {Lynn},\ and\ \citenamefont
+  {Schwenk}}]{PhysRevLett.119.262502}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.-W.}\ \bibnamefont
+  {Chen}}, \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Detmold}},
+  \bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont {Lynn}}, \ and\
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Schwenk}},\ }\href
+  {\doibase 10.1103/PhysRevLett.119.262502} {\bibfield  {journal} {\bibinfo
+  {journal} {Phys. Rev. Lett.}\ }\textbf {\bibinfo {volume} {119}},\ \bibinfo
+  {pages} {262502} (\bibinfo {year} {2017})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Subedi}\ \emph {et~al.}(2008)\citenamefont {Subedi}
   \emph {et~al.}}]{Subedi:2008zz}%
   \BibitemOpen
@@ -276,18 +287,6 @@
   {2010})},\ \Eprint {http://arxiv.org/abs/1008.2713} {arXiv:1008.2713
   [nucl-ex]} \BibitemShut {NoStop}%
 %%CITATION = ARXIV:1008.2713;%%
-\bibitem [{\citenamefont {Day}\ \emph {et~al.}(2006)\citenamefont {Day},
-  \citenamefont {Arrington}, \citenamefont {Fomin},\ and\ \citenamefont
-  {Solvginon}}]{12gev_xgt1}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Day}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Arrington}},
-  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Fomin}}, \ and\ \bibinfo
-  {author} {\bibfnamefont {P.}~\bibnamefont {Solvginon}},\ }\href
-  {http://www.jlab.org/exp_prog/proposals/06/PR12-06-105.pdf} {\enquote
-  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-06-105},}\ }
-  (\bibinfo {year} {2006}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
-  {E}12-06-105}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Arrington}(2004)}]{Arrington:2003qt}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
@@ -398,6 +397,18 @@
   {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-10-008},}\ }
   (\bibinfo {year} {2010}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
   {E}12-10-008}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Day}\ \emph {et~al.}(2006)\citenamefont {Day},
+  \citenamefont {Arrington}, \citenamefont {Fomin},\ and\ \citenamefont
+  {Solvginon}}]{12gev_xgt1}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Day}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Arrington}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Fomin}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {P.}~\bibnamefont {Solvginon}},\ }\href
+  {http://www.jlab.org/exp_prog/proposals/06/PR12-06-105.pdf} {\enquote
+  {\bibinfo {title} {{J}efferson {L}ab {E}xperiment {E}12-06-105},}\ }
+  (\bibinfo {year} {2006}),\ \bibinfo {note} {{J}efferson {L}ab {E}xperiment
+  {E}12-06-105}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Arrington}\ \emph {et~al.}(2010)\citenamefont
   {Arrington}, \citenamefont {Katramatou}, \citenamefont {Petratos},\ and\
   \citenamefont {Ransome}}]{mar}%
