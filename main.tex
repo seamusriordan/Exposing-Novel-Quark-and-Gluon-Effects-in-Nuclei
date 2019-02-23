@@ -1,20 +1,23 @@
-\documentclass[prc,linenumbers,letterpaper,twocolumn,nofootinbib,superscriptaddress,floatfix]{revtex4-1}
+%\documentclass[prc,linenumbers,letterpaper,twocolumn,nofootinbib,superscriptaddress,floatfix]{revtex4-1}
+\documentclass[10pt]{iopart}
   
 \usepackage[utf8]{inputenc}
-\usepackage{newtxtext,newtxmath}
 
-\usepackage{amsfonts,amsmath,amssymb}
-\usepackage{mathrsfs}
+
+%\usepackage{newtxtext,newtxmath}
+
+%\usepackage{amsfonts,amsmath,amssymb}
+\usepackage{amsfonts,amssymb}
+%\usepackage{mathrsfs}
 \usepackage{bm}
 
-\usepackage{verbatim}
+%\usepackage{verbatim}
 \usepackage{url}
 \usepackage{graphicx}
-%\usepackage{epstopdf}
 \usepackage{setspace}
 
-\usepackage[english]{babel}
-\usepackage{blindtext}
+%\usepackage[english]{babel}
+%\usepackage{blindtext}
 \usepackage{microtype}
 \usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue,citecolor=blue]{hyperref}
 
@@ -42,68 +45,72 @@
 \title{Exposing Novel Quark and Gluon Effects in Nuclei}
 
 \author{I.~C.~Clo\"et}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
 
 \author{R.~Dupr\'{e}}
-\affiliation{Institut de Physique Nucl\'eaire, CNRS-IN2P3, Univ. Paris-Sud, Universit\'e Paris-Saclay, 91406 Orsay Cedex, France}
+\address{Institut de Physique Nucl\'eaire, CNRS-IN2P3, Univ. Paris-Sud, Universit\'e Paris-Saclay, 91406 Orsay Cedex, France}
 
 \author{S.~Riordan}
-\email{sriordan@anl.gov (Corresponding author)}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\ead{sriordan@anl.gov (Corresponding author)}
 
 \author{W.~Armstrong}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
 
 \author{J.~Arrington}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
 
 \author{W.~Cosyn}
-\affiliation{Department of Physics and Astronomy, Ghent University, Proeftuinstraat 86, B9000 Ghent, Belgium}
+\address{Department of Physics and Astronomy, Ghent University, Proeftuinstraat 86, B9000 Ghent, Belgium}
 
 \author{N.~Fomin}
-\affiliation{University of Tennessee, Knoxville, TN 37996, USA}
+\address{University of Tennessee, Knoxville, TN 37996, USA}
 
 \author{A.~Freese}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
 
 \author{S.~Fucini}
-\affiliation{Perugia University and INFN, Perugia Section, via A. Pascoli snc I-06123 Perugia, Italy}
+\address{Perugia University and INFN, Perugia Section, via A. Pascoli snc I-06123 Perugia, Italy}
 
 \author{D.~Gaskell}
-\affiliation{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
+\address{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
 
 \author{C.~E.~Keppel}
-\affiliation{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
+\address{Thomas Jefferson National Accelerator Facility, Newport News, VA 23606, USA}
 
 \author{G.~A.~Miller}
-\affiliation{Department of Physics, University of Washington, Seattle, WA 98195-1560}
+\address{Department of Physics, University of Washington, Seattle, WA 98195-1560}
 
 \author{E.~Pace}
-\affiliation{Universit\`a di Roma ``Tor Vergata'' and INFN, Sezione di  Roma Tor Vergata, 00133 Rome, Italy}
+\address{Universit\`a di Roma ``Tor Vergata'' and INFN, Sezione di  Roma Tor Vergata, 00133 Rome, Italy}
 
 \author{S.~Platchkov}
-\affiliation{IRFU, CEA, Université Paris-Saclay, 91191 Gif-sur-Yvette, France}
+\address{IRFU, CEA, Université Paris-Saclay, 91191 Gif-sur-Yvette, France}
 
 \author{P.~E.~Reimer}
-\affiliation{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
+\address{Physics Division, Argonne National Laboratory, Lemont, IL 60439, USA}
 
 \author{S.~Scopetta}
-\affiliation{Università di Perugia and INFN, Sezione di Perugia, via A. Pascoli snc I-06123 Perugia, Italy}
+\address{Università di Perugia and INFN, Sezione di Perugia, via A. Pascoli snc I-06123 Perugia, Italy}
 
 \author{A.~W.~Thomas}
-\affiliation{ARC Centre of Excellence for Particle Physics at the Terascale and CSSM, Department of Physics,
+\address{ARC Centre of Excellence for Particle Physics at the Terascale and CSSM, Department of Physics,
 University of Adelaide, Adelaide SA 5005, Australia}
 
 \author{P.~Zurita}
-\affiliation{Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA}
+\address{Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA}
 
-%\keywords{EMC effect; medium modification; nuclear modification; tagged scattering; deep inelastic scattering; nuclear generalized parton distributions; gluon distributions; parton distributions; short-range correlations}
+%\keywords{nuclear generalized parton distributions; gluon distributions; parton distributions; short-range correlations}
 
 \begin{abstract}
 The fundamental theory of the strong interaction -- quantum chromodynamics (QCD) -- provides the foundational framework with which to describe and understand the key properties of atomic nuclei. A deep understanding of the explicit role of quarks and gluons in nuclei remains elusive however, as these effects have thus far been well-disguised by confinement effects in QCD which are encapsulated by a successful description in terms of effective hadronic degrees of freedom. The observation of the EMC effect has provided an enduring indication for explicit QCD effects in nuclei, and points to the medium modification of the bound protons and neutrons in the nuclear medium. Understanding the EMC effect is a major challenge for modern nuclear physics, and several key questions remain, such as understanding its flavor, spin, and momentum dependence. This manuscript provides a contemporary snapshot of our understanding of the role of QCD in nuclei and outlines possible pathways in experiment and theory that will help deepen our understanding of nuclei in the context of QCD.
 \end{abstract}
+\noindent{\it Keywords\/}: EMC effect; medium modification; nuclear modification; tagged scattering; deep inelastic scattering; short-range correlations
 
+\submitto{\jpg}
 \maketitle
+\ioptwocol
+
 \begin{spacing}{0.9}
 \tableofcontents
 \end{spacing}
@@ -152,14 +159,15 @@ The fundamental theory of the strong interaction -- quantum chromodynamics (QCD)
 
 %===============================================================================
 %===============================================================================
-\begin{acknowledgments}
+\ack
 The authors are grateful to the ECT* in Trento, Italy, for the hosting the workshop ``Exposing Novel Quark and Gluon Effects in Nuclei'' in April 2018 which made this work possible.  
 %
 The U.S. Department of Energy, Office of Science, Office of Nuclear Physics supported contributions from Argonne National Laboratory under contract DE-AC02-06CH11357. The contributions from the University of Tennesee, Knoxville, were supported by grant DE-SC0013615; contributions from the University of Washington were supported under Award Number DE-FG02-97ER-41014; and contributions from the University of Adelaide were supported by the Australian Research Council through the ARC Centre of Excellence for Particle Physics at the Terascale (CE110001104) and Discovery Project DP15110310.
-\end{acknowledgments}
+%\end{acknowledgments}
 
 
 \bibliography{fullbib}
+\bibliographystyle{iopart-num}
 
 \end{document}
 
