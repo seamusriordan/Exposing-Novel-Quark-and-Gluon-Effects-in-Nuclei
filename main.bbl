@@ -12,6 +12,9 @@ Tanabashi M {\em et~al.\/} (Particle Data Group) 2018 {\em Phys. Rev. D\/} {\bf
   98}(3) 030001
   \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevD.98.030001}
 
+\bibitem{Taylor:1991ew}
+Taylor R~E 1991 {\em Rev. Mod. Phys.\/} {\bf 63} 573--595
+
 \bibitem{Benvenuti:1987az}
 Benvenuti A~C {\em et~al.\/} (BCDMS) 1987 {\em Phys. Lett.\/} {\bf B189}
   483--487
@@ -32,12 +35,38 @@ Guzey V, Zhu L, Keppel C~E, Christy M~E, Gaskell D, Solvignon P and Accardi A
 Aubert J~J {\em et~al.\/} (European Muon) 1983 {\em Phys. Lett.\/} {\bf 123B}
   275--278
 
+\bibitem{Altemus:1980wt}
+Altemus R, Cafolla A, Day D, Mccarthy J, Whitney R {\em et~al.\/} 1980 {\em
+  Phys. Rev. Lett.\/} {\bf 44} 965--968
+
+\bibitem{Noble:1980my}
+Noble J 1981 {\em Phys. Rev. Lett.\/} {\bf 46} 412--415
+
+\bibitem{Meziani:1984is}
+Meziani Z, Barreau P, Bernheim M, Morgenstern J, Turck-Chieze S {\em et~al.\/}
+  1984 {\em Phys. Rev. Lett.\/} {\bf 52} 2130--2133
+
+\bibitem{Morgenstern:2001jt}
+Morgenstern J and Meziani Z 2001 {\em Phys. Lett.\/} {\bf B515} 269--275
+  (\textit{Preprint} \eprint{nucl-ex/0105016})
+
+\bibitem{Cloet:2015tha}
+Cloët I~C, Bentz W and Thomas A~W 2016 {\em Phys. Rev. Lett.\/} {\bf 116}
+  032701 (\textit{Preprint} \eprint{1506.05875})
+
+\bibitem{Frankfurt:1988nt}
+Frankfurt L~L and Strikman M~I 1988 {\em Phys. Rept.\/} {\bf 160} 235--427
+
 \bibitem{Arneodo:1992wf}
 Arneodo M 1994 {\em Phys. Rept.\/} {\bf 240} 301--393
 
 \bibitem{Geesaman:1995yd}
 Geesaman D~F, Saito K and Thomas A~W 1995 {\em Ann. Rev. Nucl. Part. Sci.\/}
   {\bf 45} 337--390
+
+\bibitem{Piller:1999wx}
+Piller G and Weise W 2000 {\em Phys. Rept.\/} {\bf 330} 1--94
+  (\textit{Preprint} \eprint{hep-ph/9908230})
 
 \bibitem{Sargsian:2002wc}
 Sargsian M~M {\em et~al.\/} 2003 {\em J. Phys.\/} {\bf G29} R1--R45
@@ -57,10 +86,6 @@ Seely J {\em et~al.\/} 2009 {\em Phys. Rev. Lett.\/} {\bf 103} 202301
 
 \bibitem{Norton:2003cb}
 Norton P~R 2003 {\em Rept. Prog. Phys.\/} {\bf 66} 1253--1297
-
-\bibitem{Piller:1999wx}
-Piller G and Weise W 2000 {\em Phys. Rept.\/} {\bf 330} 1--94
-  (\textit{Preprint} \eprint{hep-ph/9908230})
 
 \bibitem{Hen:2013oha}
 Hen O, Higinbotham D~W, Miller G~A, Piasetzky E and Weinstein L~B 2013 {\em
@@ -100,13 +125,19 @@ Chen J~W, Detmold W, Lynn J~E and Schwenk A 2017 {\em Phys. Rev. Lett.\/} {\bf
   119}(26) 262502
   \urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.119.262502}
 
-\bibitem{Subedi:2008zz}
-Subedi R {\em et~al.\/} 2008 {\em Science\/} {\bf 320} 1476--1478
-  (\textit{Preprint} \eprint{0908.1514})
-
 \bibitem{Fomin:2010ei}
 Fomin N {\em et~al.\/} 2010 {\em Phys. Rev. Lett.\/} {\bf 105} 212502
   (\textit{Preprint} \eprint{1008.2713})
+
+\bibitem{Tzanov:2005kr}
+Tzanov M {\em et~al.\/} (NuTeV) 2006 {\em Phys. Rev.\/} {\bf D74} 012008
+  (\textit{Preprint} \eprint{hep-ex/0509010})
+
+\bibitem{Onengut:2005kv}
+Onengut G {\em et~al.\/} (CHORUS) 2006 {\em Phys. Lett.\/} {\bf B632} 65--75
+
+\bibitem{Tzanov:2009zz}
+Tzanov M 2010 {\em AIP Conf. Proc.\/} {\bf 1222} 243--247
 
 \bibitem{ATLAS:2014cpa}
 Aad G {\em et~al.\/} (ATLAS) 2015 {\em Phys. Lett.\/} {\bf B748} 392--413
@@ -182,6 +213,10 @@ Sargsian M~M 2014 {\em Phys. Rev.\/} {\bf C89} 034305 (\textit{Preprint}
 \bibitem{Arrington:2015wja}
 Arrington J 2016 {\em EPJ Web Conf.\/} {\bf 113} 01011 (\textit{Preprint}
   \eprint{1508.05042})
+
+\bibitem{Subedi:2008zz}
+Subedi R {\em et~al.\/} 2008 {\em Science\/} {\bf 320} 1476--1478
+  (\textit{Preprint} \eprint{0908.1514})
 
 \bibitem{Zeller:2001hh}
 Zeller G~P {\em et~al.\/} (NuTeV) 2002 {\em Phys. Rev. Lett.\/} {\bf 88} 091802
@@ -319,9 +354,9 @@ Alexandrov {\relax Yu} {\em et~al.\/} (BEATRICE) 1999 {\em Nucl. Phys.\/} {\bf
 Piller G and Thomas A~W 1996 {\em Z. Phys.\/} {\bf C70} 661--664
   (\textit{Preprint} \eprint{hep-ph/9508410})
 
-\bibitem{Cloet:2015tha}
-Cloët I~C, Bentz W and Thomas A~W 2016 {\em Phys. Rev. Lett.\/} {\bf 116}
-  032701 (\textit{Preprint} \eprint{1506.05875})
+\bibitem{Modarres:2018ymh}
+Modarres M and Hadian A 2018 {\em Phys. Rev.\/} {\bf D98} 076001
+  (\textit{Preprint} \eprint{1901.06477})
 
 \bibitem{Chang:2015qxa}
 Chang E, Detmold W, Orginos K, Parreno A, Savage M~J, Tiburzi B~C and Beane S~R
